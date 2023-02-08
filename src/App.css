@@ -1,0 +1,5 @@
+.channel {
+    border: 1px solid black;
+    cursor: pointer;
+    width: 100px;
+}
